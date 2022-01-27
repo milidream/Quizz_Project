@@ -1,1 +1,1 @@
-# Quizz_Project
+Ce projet consiste à concentrer toutes les connaissances que nous avons acquises jusqu'à maintenant dont majoritairement le DOM JS dans un quizz. Ce quizz doit se recharger sans changement de page. Une maquette doit être faite en amont afin de structurer le jeux et avoir un modèle grâce à Figma. L'utilisation de Bootstrap est fortement conseillé afin d'avoir un site responsive. Afin d'être sùr de la structure du site une vérification doit être faite à l'aide du validator du W3.
